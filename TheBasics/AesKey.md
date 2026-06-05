@@ -7,10 +7,9 @@ There are two methods:
 - Method 2: using the Java version Aes_Finder (backup if first doesn't work).
 
 ## Getting the AES - Method 1
-1. Navigate to [AESDumpster](https://github.com/GHFear/AESDumpster).
-2. Download executable from releases.
-3. Drop your game's largest executable (usually called "Gamename"-Shipping.exe) on top of AESDumpster-Win64.exe
-4. Within a few seconds, it will output the found AES key on the screen.
+1. Navigate to [AESDumpster](https://illusory.dev/aesdumpster/) (web-based & fast).
+2. Drag and drop the game's binary exe into the website (usually called "GameName-Win64-Shipping.exe").
+3. Within a few seconds, it will output the found AES key on the screen (if any).
 
 ## Getting the AES - Method 2
 1. Download the [AES_Finder.exe](https://github.com/Dmgvol/UE_Modding/raw/main/Tools/AES_finder.exe).<br>
