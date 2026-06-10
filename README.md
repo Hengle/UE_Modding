@@ -22,7 +22,7 @@ We will start with how we can browse and export game files.
 - [Finding AES key (.pak encryption)](./TheBasics/AesKey.md)
 - [Extracting Cooked Assets - repak](./TheBasics/ExtractingCooked.md) (`.pak` only)
 - [Extracting IoStore Cooked Assets - retoc/ZenTools](./TheBasics/ExtractingIoStore.md) (`.pak`/`.utoc`/`.ucas`)
-- [Extracting mappings - UE4SS](./TheBasics/Extractingusmap.md)
+- [Extracting mappings](./TheBasics/Extractingusmap.md) ![updated](https://img.shields.io/badge/←-UPDATED-orange) 
 - [Exporting - FModel](./TheBasics/ExportingFModel.md)
 - [Exporting - UModel](./TheBasics/ExportingUModel.md)
 - [Previewing Animations - UModel](./TheBasics/UModelAnimations.md)
